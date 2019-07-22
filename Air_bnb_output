@@ -1,0 +1,995 @@
+Last login: Sun Jul 21 13:50:56 on ttys005
+(base) Lauras-MacBook-Pro:~ lauraelliott$ cd Desktop/airbnb
+(base) Lauras-MacBook-Pro:airbnb lauraelliott$ python airbnb_starter.py
+Total of pages: 17
+==================================================
+Scraping page number 1
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 2
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 3
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 4
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 5
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 6
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 7
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 8
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 9
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 10
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 11
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 12
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 13
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 14
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 15
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 16
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 17
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 18
+18 links is going to be scraped in this page
+==================================================
+Total of rentals: 270
+==================================================
+Scraping rental number 1 - 0.37% completed
+Scraping rental number 2 - 0.74% completed
+Scraping rental number 3 - 1.11% completed
+Scraping rental number 4 - 1.48% completed
+Scraping rental number 5 - 1.85% completed
+Scraping rental number 6 - 2.22% completed
+Scraping rental number 7 - 2.59% completed
+Scraping rental number 8 - 2.96% completed
+Scraping rental number 9 - 3.33% completed
+Scraping rental number 10 - 3.70% completed
+Scraping rental number 11 - 4.07% completed
+Scraping rental number 12 - 4.44% completed
+Scraping rental number 13 - 4.81% completed
+Scraping rental number 14 - 5.19% completed
+Scraping rental number 15 - 5.56% completed
+Scraping rental number 16 - 5.93% completed
+Scraping rental number 17 - 6.30% completed
+Scraping rental number 18 - 6.67% completed
+Scraping rental number 19 - 7.04% completed
+Scraping rental number 20 - 7.41% completed
+Scraping rental number 21 - 7.78% completed
+Scraping rental number 22 - 8.15% completed
+Scraping rental number 23 - 8.52% completed
+Scraping rental number 24 - 8.89% completed
+Scraping rental number 25 - 9.26% completed
+Scraping rental number 26 - 9.63% completed
+Scraping rental number 27 - 10.00% completed
+Scraping rental number 28 - 10.37% completed
+Scraping rental number 29 - 10.74% completed
+Scraping rental number 30 - 11.11% completed
+Scraping rental number 31 - 11.48% completed
+Scraping rental number 32 - 11.85% completed
+Scraping rental number 33 - 12.22% completed
+Scraping rental number 34 - 12.59% completed
+Scraping rental number 35 - 12.96% completed
+Scraping rental number 36 - 13.33% completed
+Scraping rental number 37 - 13.70% completed
+Scraping rental number 38 - 14.07% completed
+Scraping rental number 39 - 14.44% completed
+Scraping rental number 40 - 14.81% completed
+Scraping rental number 41 - 15.19% completed
+Scraping rental number 42 - 15.56% completed
+Scraping rental number 43 - 15.93% completed
+Scraping rental number 44 - 16.30% completed
+Scraping rental number 45 - 16.67% completed
+Scraping rental number 46 - 17.04% completed
+Scraping rental number 47 - 17.41% completed
+Scraping rental number 48 - 17.78% completed
+Scraping rental number 49 - 18.15% completed
+Scraping rental number 50 - 18.52% completed
+Scraping rental number 51 - 18.89% completed
+Scraping rental number 52 - 19.26% completed
+Scraping rental number 53 - 19.63% completed
+Scraping rental number 54 - 20.00% completed
+Scraping rental number 55 - 20.37% completed
+Scraping rental number 56 - 20.74% completed
+Scraping rental number 57 - 21.11% completed
+Scraping rental number 58 - 21.48% completed
+Scraping rental number 59 - 21.85% completed
+Scraping rental number 60 - 22.22% completed
+Scraping rental number 61 - 22.59% completed
+Scraping rental number 62 - 22.96% completed
+Scraping rental number 63 - 23.33% completed
+Scraping rental number 64 - 23.70% completed
+Scraping rental number 65 - 24.07% completed
+Scraping rental number 66 - 24.44% completed
+Scraping rental number 67 - 24.81% completed
+Scraping rental number 68 - 25.19% completed
+Scraping rental number 69 - 25.56% completed
+Scraping rental number 70 - 25.93% completed
+Scraping rental number 71 - 26.30% completed
+Scraping rental number 72 - 26.67% completed
+Scraping rental number 73 - 27.04% completed
+Scraping rental number 74 - 27.41% completed
+Scraping rental number 75 - 27.78% completed
+Scraping rental number 76 - 28.15% completed
+Scraping rental number 77 - 28.52% completed
+Scraping rental number 78 - 28.89% completed
+Scraping rental number 79 - 29.26% completed
+Scraping rental number 80 - 29.63% completed
+Scraping rental number 81 - 30.00% completed
+Scraping rental number 82 - 30.37% completed
+Scraping rental number 83 - 30.74% completed
+Scraping rental number 84 - 31.11% completed
+Scraping rental number 85 - 31.48% completed
+Scraping rental number 86 - 31.85% completed
+Scraping rental number 87 - 32.22% completed
+Scraping rental number 88 - 32.59% completed
+Scraping rental number 89 - 32.96% completed
+Scraping rental number 90 - 33.33% completed
+Scraping rental number 91 - 33.70% completed
+Scraping rental number 92 - 34.07% completed
+Scraping rental number 93 - 34.44% completed
+Scraping rental number 94 - 34.81% completed
+Scraping rental number 95 - 35.19% completed
+Scraping rental number 96 - 35.56% completed
+Scraping rental number 97 - 35.93% completed
+Scraping rental number 98 - 36.30% completed
+Scraping rental number 99 - 36.67% completed
+Scraping rental number 100 - 37.04% completed
+Scraping rental number 101 - 37.41% completed
+Scraping rental number 102 - 37.78% completed
+Scraping rental number 103 - 38.15% completed
+Scraping rental number 104 - 38.52% completed
+Scraping rental number 105 - 38.89% completed
+Scraping rental number 106 - 39.26% completed
+Scraping rental number 107 - 39.63% completed
+Scraping rental number 108 - 40.00% completed
+Scraping rental number 109 - 40.37% completed
+Scraping rental number 110 - 40.74% completed
+Scraping rental number 111 - 41.11% completed
+Scraping rental number 112 - 41.48% completed
+Scraping rental number 113 - 41.85% completed
+Scraping rental number 114 - 42.22% completed
+Scraping rental number 115 - 42.59% completed
+Scraping rental number 116 - 42.96% completed
+Scraping rental number 117 - 43.33% completed
+Scraping rental number 118 - 43.70% completed
+Scraping rental number 119 - 44.07% completed
+Scraping rental number 120 - 44.44% completed
+Scraping rental number 121 - 44.81% completed
+Scraping rental number 122 - 45.19% completed
+Scraping rental number 123 - 45.56% completed
+Scraping rental number 124 - 45.93% completed
+Scraping rental number 125 - 46.30% completed
+Scraping rental number 126 - 46.67% completed
+Scraping rental number 127 - 47.04% completed
+Scraping rental number 128 - 47.41% completed
+Scraping rental number 129 - 47.78% completed
+Scraping rental number 130 - 48.15% completed
+Scraping rental number 131 - 48.52% completed
+Scraping rental number 132 - 48.89% completed
+Scraping rental number 133 - 49.26% completed
+Scraping rental number 134 - 49.63% completed
+Scraping rental number 135 - 50.00% completed
+Scraping rental number 136 - 50.37% completed
+Scraping rental number 137 - 50.74% completed
+Scraping rental number 138 - 51.11% completed
+Scraping rental number 139 - 51.48% completed
+Scraping rental number 140 - 51.85% completed
+Scraping rental number 141 - 52.22% completed
+Scraping rental number 142 - 52.59% completed
+Scraping rental number 143 - 52.96% completed
+Scraping rental number 144 - 53.33% completed
+Scraping rental number 145 - 53.70% completed
+Scraping rental number 146 - 54.07% completed
+Scraping rental number 147 - 54.44% completed
+Scraping rental number 148 - 54.81% completed
+Scraping rental number 149 - 55.19% completed
+Scraping rental number 150 - 55.56% completed
+Scraping rental number 151 - 55.93% completed
+Scraping rental number 152 - 56.30% completed
+Scraping rental number 153 - 56.67% completed
+Scraping rental number 154 - 57.04% completed
+Scraping rental number 155 - 57.41% completed
+Scraping rental number 156 - 57.78% completed
+Scraping rental number 157 - 58.15% completed
+Scraping rental number 158 - 58.52% completed
+Scraping rental number 159 - 58.89% completed
+Scraping rental number 160 - 59.26% completed
+Scraping rental number 161 - 59.63% completed
+Scraping rental number 162 - 60.00% completed
+Scraping rental number 163 - 60.37% completed
+Scraping rental number 164 - 60.74% completed
+Scraping rental number 165 - 61.11% completed
+Scraping rental number 166 - 61.48% completed
+Scraping rental number 167 - 61.85% completed
+Scraping rental number 168 - 62.22% completed
+Scraping rental number 169 - 62.59% completed
+Scraping rental number 170 - 62.96% completed
+Scraping rental number 171 - 63.33% completed
+Scraping rental number 172 - 63.70% completed
+Scraping rental number 173 - 64.07% completed
+Scraping rental number 174 - 64.44% completed
+Scraping rental number 175 - 64.81% completed
+Scraping rental number 176 - 65.19% completed
+Scraping rental number 177 - 65.56% completed
+Scraping rental number 178 - 65.93% completed
+Scraping rental number 179 - 66.30% completed
+Scraping rental number 180 - 66.67% completed
+Scraping rental number 181 - 67.04% completed
+Scraping rental number 182 - 67.41% completed
+Scraping rental number 183 - 67.78% completed
+Scraping rental number 184 - 68.15% completed
+Scraping rental number 185 - 68.52% completed
+Scraping rental number 186 - 68.89% completed
+Scraping rental number 187 - 69.26% completed
+Scraping rental number 188 - 69.63% completed
+Scraping rental number 189 - 70.00% completed
+Scraping rental number 190 - 70.37% completed
+Scraping rental number 191 - 70.74% completed
+Scraping rental number 192 - 71.11% completed
+Scraping rental number 193 - 71.48% completed
+Scraping rental number 194 - 71.85% completed
+Scraping rental number 195 - 72.22% completed
+Scraping rental number 196 - 72.59% completed
+Scraping rental number 197 - 72.96% completed
+Scraping rental number 198 - 73.33% completed
+Scraping rental number 199 - 73.70% completed
+Scraping rental number 200 - 74.07% completed
+Scraping rental number 201 - 74.44% completed
+Scraping rental number 202 - 74.81% completed
+Scraping rental number 203 - 75.19% completed
+Scraping rental number 204 - 75.56% completed
+Scraping rental number 205 - 75.93% completed
+Scraping rental number 206 - 76.30% completed
+Scraping rental number 207 - 76.67% completed
+Scraping rental number 208 - 77.04% completed
+Scraping rental number 209 - 77.41% completed
+Scraping rental number 210 - 77.78% completed
+Scraping rental number 211 - 78.15% completed
+Scraping rental number 212 - 78.52% completed
+Scraping rental number 213 - 78.89% completed
+Scraping rental number 214 - 79.26% completed
+Scraping rental number 215 - 79.63% completed
+Scraping rental number 216 - 80.00% completed
+Scraping rental number 217 - 80.37% completed
+Scraping rental number 218 - 80.74% completed
+Scraping rental number 219 - 81.11% completed
+Scraping rental number 220 - 81.48% completed
+Scraping rental number 221 - 81.85% completed
+Scraping rental number 222 - 82.22% completed
+Scraping rental number 223 - 82.59% completed
+Scraping rental number 224 - 82.96% completed
+Scraping rental number 225 - 83.33% completed
+Scraping rental number 226 - 83.70% completed
+Scraping rental number 227 - 84.07% completed
+Scraping rental number 228 - 84.44% completed
+Scraping rental number 229 - 84.81% completed
+Scraping rental number 230 - 85.19% completed
+Scraping rental number 231 - 85.56% completed
+Scraping rental number 232 - 85.93% completed
+Scraping rental number 233 - 86.30% completed
+Scraping rental number 234 - 86.67% completed
+Scraping rental number 235 - 87.04% completed
+Scraping rental number 236 - 87.41% completed
+Scraping rental number 237 - 87.78% completed
+Scraping rental number 238 - 88.15% completed
+Scraping rental number 239 - 88.52% completed
+Scraping rental number 240 - 88.89% completed
+Scraping rental number 241 - 89.26% completed
+Scraping rental number 242 - 89.63% completed
+Scraping rental number 243 - 90.00% completed
+Scraping rental number 244 - 90.37% completed
+Scraping rental number 245 - 90.74% completed
+Scraping rental number 246 - 91.11% completed
+Scraping rental number 247 - 91.48% completed
+Scraping rental number 248 - 91.85% completed
+Scraping rental number 249 - 92.22% completed
+Scraping rental number 250 - 92.59% completed
+Scraping rental number 251 - 92.96% completed
+Scraping rental number 252 - 93.33% completed
+Scraping rental number 253 - 93.70% completed
+Scraping rental number 254 - 94.07% completed
+Scraping rental number 255 - 94.44% completed
+Scraping rental number 256 - 94.81% completed
+Scraping rental number 257 - 95.19% completed
+Scraping rental number 258 - 95.56% completed
+Scraping rental number 259 - 95.93% completed
+Scraping rental number 260 - 96.30% completed
+Scraping rental number 261 - 96.67% completed
+Scraping rental number 262 - 97.04% completed
+Scraping rental number 263 - 97.41% completed
+Scraping rental number 264 - 97.78% completed
+Scraping rental number 265 - 98.15% completed
+Scraping rental number 266 - 98.52% completed
+Scraping rental number 267 - 98.89% completed
+Scraping rental number 268 - 99.26% completed
+Scraping rental number 269 - 99.63% completed
+Scraping rental number 270 - 100.00% completed
+(base) Lauras-MacBook-Pro:airbnb lauraelliott$ python airbnb_starter.py
+Total of pages: 17
+==================================================
+Scraping page number 1
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 2
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 3
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 4
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 5
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 6
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 7
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 8
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 9
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 10
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 11
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 12
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 13
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 14
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 15
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 16
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 17
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 18
+0 links is going to be scraped in this page
+==================================================
+Total of rentals: 54
+==================================================
+Scraping rental number 1 - 1.85% completed
+Scraping rental number 2 - 3.70% completed
+Scraping rental number 3 - 5.56% completed
+Scraping rental number 4 - 7.41% completed
+Scraping rental number 5 - 9.26% completed
+Scraping rental number 6 - 11.11% completed
+Scraping rental number 7 - 12.96% completed
+Scraping rental number 8 - 14.81% completed
+Scraping rental number 9 - 16.67% completed
+Scraping rental number 10 - 18.52% completed
+Scraping rental number 11 - 20.37% completed
+Scraping rental number 12 - 22.22% completed
+Scraping rental number 13 - 24.07% completed
+Scraping rental number 14 - 25.93% completed
+Scraping rental number 15 - 27.78% completed
+Scraping rental number 16 - 29.63% completed
+Scraping rental number 17 - 31.48% completed
+Scraping rental number 18 - 33.33% completed
+Scraping rental number 19 - 35.19% completed
+Scraping rental number 20 - 37.04% completed
+Scraping rental number 21 - 38.89% completed
+Scraping rental number 22 - 40.74% completed
+Scraping rental number 23 - 42.59% completed
+Scraping rental number 24 - 44.44% completed
+Scraping rental number 25 - 46.30% completed
+Scraping rental number 26 - 48.15% completed
+Scraping rental number 27 - 50.00% completed
+Scraping rental number 28 - 51.85% completed
+Scraping rental number 29 - 53.70% completed
+Scraping rental number 30 - 55.56% completed
+Scraping rental number 31 - 57.41% completed
+Scraping rental number 32 - 59.26% completed
+Scraping rental number 33 - 61.11% completed
+Scraping rental number 34 - 62.96% completed
+Scraping rental number 35 - 64.81% completed
+Scraping rental number 36 - 66.67% completed
+Scraping rental number 37 - 68.52% completed
+Scraping rental number 38 - 70.37% completed
+Scraping rental number 39 - 72.22% completed
+Scraping rental number 40 - 74.07% completed
+Scraping rental number 41 - 75.93% completed
+Scraping rental number 42 - 77.78% completed
+Scraping rental number 43 - 79.63% completed
+Scraping rental number 44 - 81.48% completed
+Scraping rental number 45 - 83.33% completed
+Scraping rental number 46 - 85.19% completed
+Scraping rental number 47 - 87.04% completed
+Scraping rental number 48 - 88.89% completed
+Scraping rental number 49 - 90.74% completed
+Scraping rental number 50 - 92.59% completed
+Scraping rental number 51 - 94.44% completed
+Scraping rental number 52 - 96.30% completed
+Scraping rental number 53 - 98.15% completed
+Scraping rental number 54 - 100.00% completed
+(base) Lauras-MacBook-Pro:airbnb lauraelliott$ python airbnb_starter.py
+Total of pages: 17
+==================================================
+Scraping page number 1
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 2
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 3
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 4
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 5
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 6
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 7
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 8
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 9
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 10
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 11
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 12
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 13
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 14
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 15
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 16
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 17
+0 links is going to be scraped in this page
+==================================================
+Scraping page number 18
+0 links is going to be scraped in this page
+==================================================
+Total of rentals: 108
+==================================================
+Scraping rental number 1 - 0.93% completed
+Scraping rental number 2 - 1.85% completed
+Scraping rental number 3 - 2.78% completed
+Scraping rental number 4 - 3.70% completed
+Scraping rental number 5 - 4.63% completed
+Scraping rental number 6 - 5.56% completed
+Scraping rental number 7 - 6.48% completed
+Scraping rental number 8 - 7.41% completed
+Scraping rental number 9 - 8.33% completed
+Scraping rental number 10 - 9.26% completed
+Scraping rental number 11 - 10.19% completed
+Scraping rental number 12 - 11.11% completed
+Scraping rental number 13 - 12.04% completed
+Scraping rental number 14 - 12.96% completed
+Scraping rental number 15 - 13.89% completed
+Scraping rental number 16 - 14.81% completed
+Scraping rental number 17 - 15.74% completed
+Scraping rental number 18 - 16.67% completed
+Scraping rental number 19 - 17.59% completed
+Scraping rental number 20 - 18.52% completed
+Scraping rental number 21 - 19.44% completed
+Scraping rental number 22 - 20.37% completed
+Scraping rental number 23 - 21.30% completed
+Scraping rental number 24 - 22.22% completed
+Scraping rental number 25 - 23.15% completed
+Scraping rental number 26 - 24.07% completed
+Scraping rental number 27 - 25.00% completed
+Scraping rental number 28 - 25.93% completed
+Scraping rental number 29 - 26.85% completed
+Scraping rental number 30 - 27.78% completed
+Scraping rental number 31 - 28.70% completed
+Scraping rental number 32 - 29.63% completed
+Scraping rental number 33 - 30.56% completed
+Scraping rental number 34 - 31.48% completed
+Scraping rental number 35 - 32.41% completed
+Scraping rental number 36 - 33.33% completed
+Scraping rental number 37 - 34.26% completed
+Scraping rental number 38 - 35.19% completed
+Scraping rental number 39 - 36.11% completed
+Scraping rental number 40 - 37.04% completed
+Scraping rental number 41 - 37.96% completed
+Scraping rental number 42 - 38.89% completed
+Scraping rental number 43 - 39.81% completed
+Scraping rental number 44 - 40.74% completed
+Scraping rental number 45 - 41.67% completed
+Scraping rental number 46 - 42.59% completed
+Scraping rental number 47 - 43.52% completed
+Scraping rental number 48 - 44.44% completed
+Scraping rental number 49 - 45.37% completed
+Scraping rental number 50 - 46.30% completed
+Scraping rental number 51 - 47.22% completed
+Scraping rental number 52 - 48.15% completed
+Scraping rental number 53 - 49.07% completed
+Scraping rental number 54 - 50.00% completed
+Scraping rental number 55 - 50.93% completed
+Scraping rental number 56 - 51.85% completed
+Scraping rental number 57 - 52.78% completed
+Scraping rental number 58 - 53.70% completed
+Scraping rental number 59 - 54.63% completed
+Scraping rental number 60 - 55.56% completed
+Scraping rental number 61 - 56.48% completed
+Scraping rental number 62 - 57.41% completed
+Scraping rental number 63 - 58.33% completed
+Scraping rental number 64 - 59.26% completed
+Scraping rental number 65 - 60.19% completed
+Scraping rental number 66 - 61.11% completed
+Scraping rental number 67 - 62.04% completed
+Scraping rental number 68 - 62.96% completed
+Scraping rental number 69 - 63.89% completed
+Scraping rental number 70 - 64.81% completed
+Scraping rental number 71 - 65.74% completed
+Scraping rental number 72 - 66.67% completed
+Scraping rental number 73 - 67.59% completed
+Scraping rental number 74 - 68.52% completed
+Scraping rental number 75 - 69.44% completed
+Scraping rental number 76 - 70.37% completed
+Scraping rental number 77 - 71.30% completed
+Scraping rental number 78 - 72.22% completed
+Scraping rental number 79 - 73.15% completed
+Scraping rental number 80 - 74.07% completed
+Scraping rental number 81 - 75.00% completed
+Scraping rental number 82 - 75.93% completed
+Scraping rental number 83 - 76.85% completed
+Scraping rental number 84 - 77.78% completed
+Scraping rental number 85 - 78.70% completed
+Scraping rental number 86 - 79.63% completed
+Scraping rental number 87 - 80.56% completed
+Scraping rental number 88 - 81.48% completed
+Scraping rental number 89 - 82.41% completed
+Scraping rental number 90 - 83.33% completed
+Scraping rental number 91 - 84.26% completed
+Scraping rental number 92 - 85.19% completed
+Scraping rental number 93 - 86.11% completed
+Scraping rental number 94 - 87.04% completed
+Scraping rental number 95 - 87.96% completed
+Scraping rental number 96 - 88.89% completed
+Scraping rental number 97 - 89.81% completed
+Scraping rental number 98 - 90.74% completed
+Scraping rental number 99 - 91.67% completed
+Scraping rental number 100 - 92.59% completed
+Scraping rental number 101 - 93.52% completed
+Scraping rental number 102 - 94.44% completed
+Scraping rental number 103 - 95.37% completed
+Scraping rental number 104 - 96.30% completed
+Scraping rental number 105 - 97.22% completed
+Scraping rental number 106 - 98.15% completed
+Scraping rental number 107 - 99.07% completed
+Scraping rental number 108 - 100.00% completed
+(base) Lauras-MacBook-Pro:airbnb lauraelliott$ python airbnb_hawaii.py
+Total of pages: 17
+==================================================
+Scraping page number 1
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 2
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 3
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 4
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 5
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 6
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 7
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 8
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 9
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 10
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 11
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 12
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 13
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 14
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 15
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 16
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 17
+18 links is going to be scraped in this page
+==================================================
+Scraping page number 18
+18 links is going to be scraped in this page
+==================================================
+Total of rentals: 324
+==================================================
+Scraping rental number 1 - 0.31% completed
+Scraping rental number 2 - 0.62% completed
+Scraping rental number 3 - 0.93% completed
+Scraping rental number 4 - 1.23% completed
+Scraping rental number 5 - 1.54% completed
+Scraping rental number 6 - 1.85% completed
+Scraping rental number 7 - 2.16% completed
+Scraping rental number 8 - 2.47% completed
+Scraping rental number 9 - 2.78% completed
+Scraping rental number 10 - 3.09% completed
+Scraping rental number 11 - 3.40% completed
+Scraping rental number 12 - 3.70% completed
+Scraping rental number 13 - 4.01% completed
+Scraping rental number 14 - 4.32% completed
+Scraping rental number 15 - 4.63% completed
+Scraping rental number 16 - 4.94% completed
+Scraping rental number 17 - 5.25% completed
+Scraping rental number 18 - 5.56% completed
+Scraping rental number 19 - 5.86% completed
+Scraping rental number 20 - 6.17% completed
+Scraping rental number 21 - 6.48% completed
+Scraping rental number 22 - 6.79% completed
+Scraping rental number 23 - 7.10% completed
+Scraping rental number 24 - 7.41% completed
+Scraping rental number 25 - 7.72% completed
+Scraping rental number 26 - 8.02% completed
+Scraping rental number 27 - 8.33% completed
+Scraping rental number 28 - 8.64% completed
+Scraping rental number 29 - 8.95% completed
+Scraping rental number 30 - 9.26% completed
+Scraping rental number 31 - 9.57% completed
+Scraping rental number 32 - 9.88% completed
+Scraping rental number 33 - 10.19% completed
+Scraping rental number 34 - 10.49% completed
+Scraping rental number 35 - 10.80% completed
+Scraping rental number 36 - 11.11% completed
+Scraping rental number 37 - 11.42% completed
+Scraping rental number 38 - 11.73% completed
+Scraping rental number 39 - 12.04% completed
+Scraping rental number 40 - 12.35% completed
+Scraping rental number 41 - 12.65% completed
+Scraping rental number 42 - 12.96% completed
+Scraping rental number 43 - 13.27% completed
+Scraping rental number 44 - 13.58% completed
+Scraping rental number 45 - 13.89% completed
+Scraping rental number 46 - 14.20% completed
+Scraping rental number 47 - 14.51% completed
+Scraping rental number 48 - 14.81% completed
+Scraping rental number 49 - 15.12% completed
+Scraping rental number 50 - 15.43% completed
+Scraping rental number 51 - 15.74% completed
+Scraping rental number 52 - 16.05% completed
+Scraping rental number 53 - 16.36% completed
+Scraping rental number 54 - 16.67% completed
+Scraping rental number 55 - 16.98% completed
+Scraping rental number 56 - 17.28% completed
+Scraping rental number 57 - 17.59% completed
+Scraping rental number 58 - 17.90% completed
+Scraping rental number 59 - 18.21% completed
+Scraping rental number 60 - 18.52% completed
+Scraping rental number 61 - 18.83% completed
+Scraping rental number 62 - 19.14% completed
+Scraping rental number 63 - 19.44% completed
+Scraping rental number 64 - 19.75% completed
+Scraping rental number 65 - 20.06% completed
+Scraping rental number 66 - 20.37% completed
+Scraping rental number 67 - 20.68% completed
+Scraping rental number 68 - 20.99% completed
+Scraping rental number 69 - 21.30% completed
+Scraping rental number 70 - 21.60% completed
+Scraping rental number 71 - 21.91% completed
+Scraping rental number 72 - 22.22% completed
+Scraping rental number 73 - 22.53% completed
+Scraping rental number 74 - 22.84% completed
+Scraping rental number 75 - 23.15% completed
+Scraping rental number 76 - 23.46% completed
+Scraping rental number 77 - 23.77% completed
+Scraping rental number 78 - 24.07% completed
+Scraping rental number 79 - 24.38% completed
+Scraping rental number 80 - 24.69% completed
+Scraping rental number 81 - 25.00% completed
+Scraping rental number 82 - 25.31% completed
+Scraping rental number 83 - 25.62% completed
+Scraping rental number 84 - 25.93% completed
+Scraping rental number 85 - 26.23% completed
+Scraping rental number 86 - 26.54% completed
+Scraping rental number 87 - 26.85% completed
+Scraping rental number 88 - 27.16% completed
+Scraping rental number 89 - 27.47% completed
+Scraping rental number 90 - 27.78% completed
+Scraping rental number 91 - 28.09% completed
+Scraping rental number 92 - 28.40% completed
+Scraping rental number 93 - 28.70% completed
+Scraping rental number 94 - 29.01% completed
+Scraping rental number 95 - 29.32% completed
+Scraping rental number 96 - 29.63% completed
+Scraping rental number 97 - 29.94% completed
+Scraping rental number 98 - 30.25% completed
+Scraping rental number 99 - 30.56% completed
+Scraping rental number 100 - 30.86% completed
+Scraping rental number 101 - 31.17% completed
+Scraping rental number 102 - 31.48% completed
+Scraping rental number 103 - 31.79% completed
+Scraping rental number 104 - 32.10% completed
+Scraping rental number 105 - 32.41% completed
+Scraping rental number 106 - 32.72% completed
+Scraping rental number 107 - 33.02% completed
+Scraping rental number 108 - 33.33% completed
+Scraping rental number 109 - 33.64% completed
+Scraping rental number 110 - 33.95% completed
+Scraping rental number 111 - 34.26% completed
+Scraping rental number 112 - 34.57% completed
+Scraping rental number 113 - 34.88% completed
+Scraping rental number 114 - 35.19% completed
+Scraping rental number 115 - 35.49% completed
+Scraping rental number 116 - 35.80% completed
+Scraping rental number 117 - 36.11% completed
+Scraping rental number 118 - 36.42% completed
+Scraping rental number 119 - 36.73% completed
+Scraping rental number 120 - 37.04% completed
+Scraping rental number 121 - 37.35% completed
+Scraping rental number 122 - 37.65% completed
+Scraping rental number 123 - 37.96% completed
+Scraping rental number 124 - 38.27% completed
+Scraping rental number 125 - 38.58% completed
+Scraping rental number 126 - 38.89% completed
+Scraping rental number 127 - 39.20% completed
+Scraping rental number 128 - 39.51% completed
+Scraping rental number 129 - 39.81% completed
+Scraping rental number 130 - 40.12% completed
+Scraping rental number 131 - 40.43% completed
+Scraping rental number 132 - 40.74% completed
+Scraping rental number 133 - 41.05% completed
+Scraping rental number 134 - 41.36% completed
+Scraping rental number 135 - 41.67% completed
+Scraping rental number 136 - 41.98% completed
+Scraping rental number 137 - 42.28% completed
+Scraping rental number 138 - 42.59% completed
+Scraping rental number 139 - 42.90% completed
+Scraping rental number 140 - 43.21% completed
+Scraping rental number 141 - 43.52% completed
+Scraping rental number 142 - 43.83% completed
+Scraping rental number 143 - 44.14% completed
+Scraping rental number 144 - 44.44% completed
+Scraping rental number 145 - 44.75% completed
+Scraping rental number 146 - 45.06% completed
+Scraping rental number 147 - 45.37% completed
+Scraping rental number 148 - 45.68% completed
+Scraping rental number 149 - 45.99% completed
+Scraping rental number 150 - 46.30% completed
+Scraping rental number 151 - 46.60% completed
+Scraping rental number 152 - 46.91% completed
+Scraping rental number 153 - 47.22% completed
+Scraping rental number 154 - 47.53% completed
+Scraping rental number 155 - 47.84% completed
+Scraping rental number 156 - 48.15% completed
+Scraping rental number 157 - 48.46% completed
+Scraping rental number 158 - 48.77% completed
+Scraping rental number 159 - 49.07% completed
+Scraping rental number 160 - 49.38% completed
+Scraping rental number 161 - 49.69% completed
+Scraping rental number 162 - 50.00% completed
+Scraping rental number 163 - 50.31% completed
+Scraping rental number 164 - 50.62% completed
+Scraping rental number 165 - 50.93% completed
+Scraping rental number 166 - 51.23% completed
+Scraping rental number 167 - 51.54% completed
+Scraping rental number 168 - 51.85% completed
+Scraping rental number 169 - 52.16% completed
+Scraping rental number 170 - 52.47% completed
+Scraping rental number 171 - 52.78% completed
+Scraping rental number 172 - 53.09% completed
+Scraping rental number 173 - 53.40% completed
+Scraping rental number 174 - 53.70% completed
+Scraping rental number 175 - 54.01% completed
+Scraping rental number 176 - 54.32% completed
+Scraping rental number 177 - 54.63% completed
+Scraping rental number 178 - 54.94% completed
+Scraping rental number 179 - 55.25% completed
+Scraping rental number 180 - 55.56% completed
+Scraping rental number 181 - 55.86% completed
+Scraping rental number 182 - 56.17% completed
+Scraping rental number 183 - 56.48% completed
+Scraping rental number 184 - 56.79% completed
+Scraping rental number 185 - 57.10% completed
+Scraping rental number 186 - 57.41% completed
+Scraping rental number 187 - 57.72% completed
+Scraping rental number 188 - 58.02% completed
+Scraping rental number 189 - 58.33% completed
+Scraping rental number 190 - 58.64% completed
+Scraping rental number 191 - 58.95% completed
+Scraping rental number 192 - 59.26% completed
+Scraping rental number 193 - 59.57% completed
+Scraping rental number 194 - 59.88% completed
+Scraping rental number 195 - 60.19% completed
+Scraping rental number 196 - 60.49% completed
+Scraping rental number 197 - 60.80% completed
+Scraping rental number 198 - 61.11% completed
+Scraping rental number 199 - 61.42% completed
+Scraping rental number 200 - 61.73% completed
+Scraping rental number 201 - 62.04% completed
+Scraping rental number 202 - 62.35% completed
+Scraping rental number 203 - 62.65% completed
+Scraping rental number 204 - 62.96% completed
+Scraping rental number 205 - 63.27% completed
+Scraping rental number 206 - 63.58% completed
+Scraping rental number 207 - 63.89% completed
+Scraping rental number 208 - 64.20% completed
+Scraping rental number 209 - 64.51% completed
+Scraping rental number 210 - 64.81% completed
+Scraping rental number 211 - 65.12% completed
+Scraping rental number 212 - 65.43% completed
+Scraping rental number 213 - 65.74% completed
+Scraping rental number 214 - 66.05% completed
+Scraping rental number 215 - 66.36% completed
+Scraping rental number 216 - 66.67% completed
+Scraping rental number 217 - 66.98% completed
+Scraping rental number 218 - 67.28% completed
+Scraping rental number 219 - 67.59% completed
+Scraping rental number 220 - 67.90% completed
+Scraping rental number 221 - 68.21% completed
+Scraping rental number 222 - 68.52% completed
+Scraping rental number 223 - 68.83% completed
+Scraping rental number 224 - 69.14% completed
+Scraping rental number 225 - 69.44% completed
+Scraping rental number 226 - 69.75% completed
+Scraping rental number 227 - 70.06% completed
+Scraping rental number 228 - 70.37% completed
+Scraping rental number 229 - 70.68% completed
+Scraping rental number 230 - 70.99% completed
+Scraping rental number 231 - 71.30% completed
+Scraping rental number 232 - 71.60% completed
+Scraping rental number 233 - 71.91% completed
+Scraping rental number 234 - 72.22% completed
+Scraping rental number 235 - 72.53% completed
+Scraping rental number 236 - 72.84% completed
+Scraping rental number 237 - 73.15% completed
+Scraping rental number 238 - 73.46% completed
+Scraping rental number 239 - 73.77% completed
+Scraping rental number 240 - 74.07% completed
+Scraping rental number 241 - 74.38% completed
+Scraping rental number 242 - 74.69% completed
+Scraping rental number 243 - 75.00% completed
+Scraping rental number 244 - 75.31% completed
+Scraping rental number 245 - 75.62% completed
+Scraping rental number 246 - 75.93% completed
+Scraping rental number 247 - 76.23% completed
+Scraping rental number 248 - 76.54% completed
+Scraping rental number 249 - 76.85% completed
+Scraping rental number 250 - 77.16% completed
+Scraping rental number 251 - 77.47% completed
+Scraping rental number 252 - 77.78% completed
+Scraping rental number 253 - 78.09% completed
+Scraping rental number 254 - 78.40% completed
+Scraping rental number 255 - 78.70% completed
+Scraping rental number 256 - 79.01% completed
+Scraping rental number 257 - 79.32% completed
+Scraping rental number 258 - 79.63% completed
+Scraping rental number 259 - 79.94% completed
+Scraping rental number 260 - 80.25% completed
+Scraping rental number 261 - 80.56% completed
+Scraping rental number 262 - 80.86% completed
+Scraping rental number 263 - 81.17% completed
+Scraping rental number 264 - 81.48% completed
+Scraping rental number 265 - 81.79% completed
+Scraping rental number 266 - 82.10% completed
+Scraping rental number 267 - 82.41% completed
+Scraping rental number 268 - 82.72% completed
+Scraping rental number 269 - 83.02% completed
+Scraping rental number 270 - 83.33% completed
+Scraping rental number 271 - 83.64% completed
+Scraping rental number 272 - 83.95% completed
+Scraping rental number 273 - 84.26% completed
+Scraping rental number 274 - 84.57% completed
+Scraping rental number 275 - 84.88% completed
+Scraping rental number 276 - 85.19% completed
+Scraping rental number 277 - 85.49% completed
+Scraping rental number 278 - 85.80% completed
+Scraping rental number 279 - 86.11% completed
+Scraping rental number 280 - 86.42% completed
+Scraping rental number 281 - 86.73% completed
+Scraping rental number 282 - 87.04% completed
+Scraping rental number 283 - 87.35% completed
+Scraping rental number 284 - 87.65% completed
+Scraping rental number 285 - 87.96% completed
+Scraping rental number 286 - 88.27% completed
+Scraping rental number 287 - 88.58% completed
+Scraping rental number 288 - 88.89% completed
+Scraping rental number 289 - 89.20% completed
+Scraping rental number 290 - 89.51% completed
+Scraping rental number 291 - 89.81% completed
+Scraping rental number 292 - 90.12% completed
+Scraping rental number 293 - 90.43% completed
+Scraping rental number 294 - 90.74% completed
+Scraping rental number 295 - 91.05% completed
+Scraping rental number 296 - 91.36% completed
+Scraping rental number 297 - 91.67% completed
+Scraping rental number 298 - 91.98% completed
+Scraping rental number 299 - 92.28% completed
+Scraping rental number 300 - 92.59% completed
+Scraping rental number 301 - 92.90% completed
+Scraping rental number 302 - 93.21% completed
+Scraping rental number 303 - 93.52% completed
+Scraping rental number 304 - 93.83% completed
+Scraping rental number 305 - 94.14% completed
+Scraping rental number 306 - 94.44% completed
+Scraping rental number 307 - 94.75% completed
+Scraping rental number 308 - 95.06% completed
+Scraping rental number 309 - 95.37% completed
+Scraping rental number 310 - 95.68% completed
+Scraping rental number 311 - 95.99% completed
+Scraping rental number 312 - 96.30% completed
+Scraping rental number 313 - 96.60% completed
+Scraping rental number 314 - 96.91% completed
+Scraping rental number 315 - 97.22% completed
+Scraping rental number 316 - 97.53% completed
+Scraping rental number 317 - 97.84% completed
+Scraping rental number 318 - 98.15% completed
+Scraping rental number 319 - 98.46% completed
+Scraping rental number 320 - 98.77% completed
+Scraping rental number 321 - 99.07% completed
+Scraping rental number 322 - 99.38% completed
+Scraping rental number 323 - 99.69% completed
+Scraping rental number 324 - 100.00% completed
+(base) Lauras-MacBook-Pro:airbnb lauraelliott$ 
