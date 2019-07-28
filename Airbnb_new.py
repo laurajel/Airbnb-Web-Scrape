@@ -12,9 +12,10 @@ driver.get("https://www.airbnb.com/s/Hawaii--United-States/homes?refinement_path
 
 
 #writing the csv file 'airbnb_1'
-csv_file = open('airbnb_new.csv', 'w', encoding='utf-8')
+csv_file = open('airbnb_1.csv', 'w', encoding='utf-8')
 writer = csv.writer(csv_file)
 
+writer.writerow(['title','location', 'rental_type', 'total_review_num', 'feat_amemities', 'rates', 'host', 'host_location', 'host_reviews', 'rental_age', 'rental_reviews'])
 
 number_pages = int(driver.find_elements_by_xpath('//ul[@data-id="SearchResultsPagination"]/li/a')[-2].text)
 print("Total of pages: {}".format(number_pages))
@@ -46,6 +47,7 @@ for url in page_urls:
 
 
 index = 1
+
 print("Total of rentals: {}".format(len(all_page_urls)))
 print('=' * 50)
 
@@ -77,14 +79,15 @@ for url in all_page_urls:
          result['total_review_num'] = None
             
     try:
-        result['feat_amenities'] = driver.find_element_by_xpath('//div[@class="_1gw6tte"]/div/div/div/div/section/div[4]/div/button').text
+         result['feat_amenities'] = driver.find_element_by_xpath('//div[@class="_1gw6tte"]/div/div/div/div/section/div[4]/div/button').text
     except:
          result['feat_amenities'] = None
     
+
     try:
-        result['price'] =  driver.find_element_by_xpath('//div[@class="_mwt4r90"]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[1]/div/div/div/div[1]/div/div/div[1]/div/span[2]/span').text
-    except:
-         result['price'] = None
+        result['rates'] = driver.find_element_by_xpath('//div[@class="_1h25vrn"]/span/a/div[3]/span/span/span[1]/span/span').text
+    except: 
+        result['rates'] = None
 
     try:
         result['host'] = driver.find_element_by_xpath('//div[@class="_hgs47m"]/div/div/h2/span').text
@@ -102,9 +105,15 @@ for url in all_page_urls:
          result['host_reviews'] = None
 
     try:
-        result['rental_age'] = driver.find_element_by_xpath('//div[@style="margin-top:40px;margin-bottom:8px"]/div[1]/div/div[1]/div[2]').text
+         result['rental_age'] = driver.find_element_by_xpath('//div[@style="margin-top:40px;marginbottom:8px"]/div[1]/div/div[1]/div[2]').text
     except:
          result['rental_age'] = None
+            
+
+    try:
+        result['rental_reviews'] = driver.find_element_by_xpath('//div[@class="_hgs47m"]/div[2]/div/span/a/div[2]/div/div/span[3]/span').text
+    except: 
+        result['rental_reviews'] = None
 
 
 
@@ -114,7 +123,4 @@ for url in all_page_urls:
 
 csv_file.close()
 driver.close()
-
-
-
     
